@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fd183549.css",
+    "main.js": "/portfolio/static/js/main.a1cdb58b.js",
+    "static/media/div2.png": "/portfolio/static/media/div2.73ba5b26de4e554ab907.png",
+    "static/media/div1.png": "/portfolio/static/media/div1.79299fa18ebbd8357a9c.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.9d3e783d8c7348aad1be.png",
+    "static/media/wallpaper.jpg": "/portfolio/static/media/wallpaper.af415ab19705b3ede7d5.jpg",
+    "static/media/wallpaper4.jpg": "/portfolio/static/media/wallpaper4.3553cfae65065476a43c.jpg",
+    "static/media/Movies.png": "/portfolio/static/media/Movies.793dd6c084b3f38e0f9d.png",
+    "static/media/MoviesR.png": "/portfolio/static/media/MoviesR.16691666ee21889525b1.png",
+    "static/media/ProjectPlanner.png": "/portfolio/static/media/ProjectPlanner.fcfbe94fe6b89099ab23.png",
+    "static/media/MonsterAttack.png": "/portfolio/static/media/MonsterAttack.7214facac7bb4870cd95.png",
+    "static/media/Comp.png": "/portfolio/static/media/Comp.98cde02b863c32903d8a.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/github.svg": "/portfolio/static/media/github.5e48a95a17cced5f30f529111677d484.svg",
+    "static/media/nav-icon3.svg": "/portfolio/static/media/nav-icon3.f466ad85894634e8610e656651864ab0.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.750f7c7f142377571a5b5b5a50aaaa55.svg",
+    "main.fd183549.css.map": "/portfolio/static/css/main.fd183549.css.map",
+    "main.a1cdb58b.js.map": "/portfolio/static/js/main.a1cdb58b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd183549.css",
+    "static/js/main.a1cdb58b.js"
+  ]
+}
