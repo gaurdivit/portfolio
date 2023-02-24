@@ -12,6 +12,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "gsap": "^3.11.4",
+    "json-server": "^0.17.2",
     "mouse-follower": "^1.1.2",
     "nodemailer": "^6.9.1",
     "react": "^18.2.0",
@@ -34,7 +35,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "json-server -p 3001 --watch db.json"
   },
   "eslintConfig": {
     "extends": [
