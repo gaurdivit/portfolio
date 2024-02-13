@@ -96,7 +96,7 @@ function NavBar() {
                 </a>
               </div>
               <a
-                href="https://drive.google.com/drive/folders/1SaDWNv9-jSogOdwnTBT1icttLuI5AUGf?usp=share_link"
+                href="https://drive.google.com/file/d/1_7UUIVPJxJIpSFxzTBjMIiWXJJkonZck/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
